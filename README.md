@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JongbeomLee623&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/JongbeomLee623)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={jambon23})](https://solved.ac/{jambon23})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jambon23)](https://solved.ac/jambon23)
