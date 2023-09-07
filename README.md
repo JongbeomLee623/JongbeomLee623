@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jambon23)](https://solved.ac/jambon23)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=jambon23&theme=cold)v
+
